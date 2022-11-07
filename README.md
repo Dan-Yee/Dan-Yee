@@ -6,6 +6,7 @@ I'm Dan! I'm currently pursuing my Bachelor's and Master's in Computer Science a
 - C/C#
 - Python
 - JavaScript
+- PostgreSQL
 - HTML/CSS
 
 ## GitHub Stats
