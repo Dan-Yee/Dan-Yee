@@ -1,13 +1,21 @@
 ## Hello World!
-I'm Dan! I completed my Bachelor's in computer science and am currently pursuing my Master's in computer science at the University at Albany. Upon finishing my master's degree, I hope to become a software engineer to continue learning as much as I can.
+I'm Dan! I am an Associate IT Developer on the Quality Control Systems team at Regeneron Pharmaceuticals. I completed my Bachelor's of Science in Computer Science in December 2022 and my Master's of Science in Computer Science in December 2023.
 
 ## Programming Languages
+- C#
 - Java
-- C/C#
 - Python
+- C
 - JavaScript
+
+## Database Systems
 - PostgreSQL
+- Oracle DBMS
+
+## Web Technologies
 - HTML/CSS
+- DevExtreme
+- ASP.NET Core MVC
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Yee&theme=tokyonight&hide=HTML,CSS,JavaScript,Shell)
